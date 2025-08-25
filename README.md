@@ -1,4 +1,4 @@
-# NLP Tasks Portfolio
+# NLP Tasks Internships 
 
 This repository contains **6 end-to-end Natural Language Processing (NLP) projects** completed as part of my internship. Each project demonstrates practical applications of NLP techniques using Python, machine learning, and transformer models.  
 
